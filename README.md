@@ -6,7 +6,7 @@ Task Manager is a simple web application built using HTML, CSS, and JavaScript. 
 2. Delete Task: Each task has a "Delete" button next to it, allowing users to remove tasks from the list.
 
 ### Demo
-You can see a live demo of the Task Manager here.
+You can see a live demo of the Task Manager here. https://clever-beignet-f2975a.netlify.app/
 
 ### Installation:
 To run the Task Manager locally, simply clone this repository to your local machine and open the index.html file in your web browser.
