@@ -10,7 +10,7 @@ You can see a live demo of the Task Manager here.
 
 ### Installation:
 To run the Task Manager locally, simply clone this repository to your local machine and open the index.html file in your web browser.
-git clone [https://github.com/your-username/task-manager.git]
+git clone [https://github.com/srus1608/task-manager.git]
 cd task-manager
 
 ### Usage
